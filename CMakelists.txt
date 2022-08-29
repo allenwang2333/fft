@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(fft-cpp)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(fft.run main.cpp fft.cpp dft.cpp complex.cpp)
+
