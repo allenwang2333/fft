@@ -1,3 +1,0 @@
-/Users/allenwang/Projects/fft-cpp/build/CMakeFiles/fft.run.dir
-/Users/allenwang/Projects/fft-cpp/build/CMakeFiles/edit_cache.dir
-/Users/allenwang/Projects/fft-cpp/build/CMakeFiles/rebuild_cache.dir
